@@ -8,7 +8,8 @@ from utils.document_loader import (
 # Load documents
 documents = []
 
-documents.extend(load_pdf_documents("Data/pdfs"))
+#documents.extend(load_pdf_documents("Data/pdfs"))
+#pdf is faded so it can majorly consider faqs, as facing pprblem with huge data
 documents.extend(load_docx_documents("Data/docs"))
 
 print(f"Loaded {len(documents)} documents.")

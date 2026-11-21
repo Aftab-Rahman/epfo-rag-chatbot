@@ -106,7 +106,7 @@ conn = psycopg2.connect(
 
 &#x20;   user="postgres",
 
-&#x20;   password="0011"
+&#x20;   password="Ask me pin"
 
 )
 

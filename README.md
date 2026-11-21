@@ -1,7 +1,3 @@
-Great. Let's do it in a controlled way.
-
-I'll draft the **current README based on the original structure you showed me and the implementation we've completed**, rather than changing anything in your project yet.
-
 ### Current README — replacement draft
 
 ````markdown
